@@ -12,3 +12,9 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+.clj-kondo
+.calva
+.lsp
+node_modules
+env.edn
+docker-compose.yml
